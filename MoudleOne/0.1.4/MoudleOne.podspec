@@ -60,5 +60,5 @@ TODO: Add long description of the pod here.
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
   s.dependency 'ModuleTwoCategory', '~> 0.1.4'
-  #s.dependency 'ModuleTwo'
+  s.dependency 'DZCTools','~> 0.1.0'
 end
