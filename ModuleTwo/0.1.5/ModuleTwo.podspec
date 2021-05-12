@@ -47,4 +47,5 @@ TODO: Add long description of the pod here.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'MoudleOneCategory'
+  #MoudleOne有更新的话，不想删除podfile.lock的话， 直接pod update MoudleOne
 end
